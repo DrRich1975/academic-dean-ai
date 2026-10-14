@@ -1,0 +1,97 @@
+Term,Academic Org Campus,Class Status,Loc Short Desc,Class Nbr,Tot Enrl,Cap Enrl,Acad Org Name,Course Prefix (Subject),Course Number (Catalog Nbr),Class Descr,Instr Mode,Concat Days,Mtg Start,Mtg End,Facility ID,Max Units,Instructor
+2267,HOME,A,Homestead,11000,15,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.375,0.427083,101 120,3,Faculty 1
+2267,HOME,A,Homestead,11001,17,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.45833,0.510413,101 120,3,Faculty 2
+2267,HOME,A,Homestead,11002,11,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.58333,0.635413,101 120,3,Faculty 3
+2267,HOME,A,HOMESTEAD,11003,31,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.70833,0.760413,101 120,3,Faculty 4
+2267,HOME,A,BAPTIST,11004,20,35,Business,GEB,1101,Business Practices,ON (Online),,0.375,0.427083,101 120,3,Faculty 5
+2267,HOME,A,SDADE SH,11005,23,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.45833,0.510413,101 120,3,Faculty 6
+2267,HOME,A,Homestead,11006,12,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.58333,0.635413,101 120,3,Faculty 7
+2267,HOME,A,Homestead,11007,10,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.70833,0.760413,101 120,3,Faculty 8
+2267,HOME,A,Homestead,11008,10,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.375,0.427083,101 120,3,Faculty 9
+2267,HOME,A,HOMESTEAD,11009,8,35,Business,GEB,1101,Business Practices,ON (Online),,0.45833,0.510413,101 120,3,Faculty 10
+2267,HOME,A,BAPTIST,11010,20,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.58333,0.635413,101 120,3,Faculty 11
+2267,HOME,A,SDADE SH,11011,25,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.70833,0.760413,101 120,3,Faculty 12
+2267,HOME,A,Homestead,11012,17,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.375,0.427083,101 120,3,Faculty 13
+2267,HOME,A,Homestead,11013,33,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.45833,0.510413,101 120,3,Faculty 14
+2267,HOME,A,Homestead,11014,32,35,Business,GEB,1101,Business Practices,ON (Online),,0.58333,0.635413,101 120,3,Faculty 15
+2267,HOME,A,HOMESTEAD,11015,9,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.70833,0.760413,101 120,3,Faculty 16
+2267,HOME,A,BAPTIST,11016,15,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.375,0.427083,101 120,3,Faculty 17
+2267,HOME,A,SDADE SH,11017,24,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.45833,0.510413,101 120,3,Faculty 18
+2267,HOME,A,Homestead,11018,25,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.58333,0.635413,101 120,3,Faculty 1
+2267,HOME,A,Homestead,11019,19,35,Business,GEB,1101,Business Practices,ON (Online),,0.70833,0.760413,101 120,3,Faculty 2
+2267,HOME,A,Homestead,11020,16,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.375,0.427083,101 120,3,Faculty 3
+2267,HOME,A,HOMESTEAD,11021,32,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.45833,0.510413,101 120,3,Faculty 4
+2267,HOME,A,BAPTIST,11022,13,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.58333,0.635413,101 120,3,Faculty 5
+2267,HOME,A,SDADE SH,11023,34,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.70833,0.760413,101 120,3,Faculty 6
+2267,HOME,A,Homestead,11024,11,35,Business,GEB,1101,Business Practices,ON (Online),,0.375,0.427083,101 120,3,Faculty 7
+2267,HOME,A,Homestead,11025,16,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.45833,0.510413,101 120,3,Faculty 8
+2267,HOME,A,Homestead,11026,14,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.58333,0.635413,101 120,3,Faculty 9
+2267,HOME,A,HOMESTEAD,11027,8,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.70833,0.760413,101 120,3,Faculty 10
+2267,HOME,A,BAPTIST,11028,34,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.375,0.427083,101 120,3,Faculty 11
+2267,HOME,A,SDADE SH,11029,28,35,Business,GEB,1101,Business Practices,ON (Online),,0.45833,0.510413,101 120,3,Faculty 12
+2267,HOME,A,Homestead,11030,33,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.58333,0.635413,101 120,3,Faculty 13
+2267,HOME,A,Homestead,11031,16,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.70833,0.760413,101 120,3,Faculty 14
+2267,HOME,A,Homestead,11032,33,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.375,0.427083,101 120,3,Faculty 15
+2267,HOME,A,HOMESTEAD,11033,16,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.45833,0.510413,101 120,3,Faculty 16
+2267,HOME,A,BAPTIST,11034,14,35,Business,GEB,1101,Business Practices,ON (Online),,0.58333,0.635413,101 120,3,Faculty 17
+2267,HOME,A,SDADE SH,11035,13,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.70833,0.760413,101 120,3,Faculty 18
+2267,HOME,A,Homestead,11036,17,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.375,0.427083,101 120,3,Faculty 1
+2267,HOME,A,Homestead,11037,17,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.45833,0.510413,101 120,3,Faculty 2
+2267,HOME,A,Homestead,11038,28,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.58333,0.635413,101 120,3,Faculty 3
+2267,HOME,A,HOMESTEAD,11039,35,35,Business,GEB,1101,Business Practices,ON (Online),,0.70833,0.760413,101 120,3,Faculty 4
+2267,HOME,A,BAPTIST,11040,31,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.375,0.427083,101 120,3,Faculty 5
+2267,HOME,A,SDADE SH,11041,35,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.45833,0.510413,101 120,3,Faculty 6
+2267,HOME,A,Homestead,11042,35,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.58333,0.635413,101 120,3,Faculty 7
+2267,HOME,A,Homestead,11043,19,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.70833,0.760413,101 120,3,Faculty 8
+2267,HOME,A,Homestead,11044,10,35,Business,GEB,1101,Business Practices,ON (Online),,0.375,0.427083,101 120,3,Faculty 9
+2267,HOME,A,HOMESTEAD,11045,35,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.45833,0.510413,101 120,3,Faculty 10
+2267,HOME,A,BAPTIST,11046,27,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.58333,0.635413,101 120,3,Faculty 11
+2267,HOME,A,SDADE SH,11047,18,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.70833,0.760413,101 120,3,Faculty 12
+2267,HOME,A,Homestead,11048,29,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.375,0.427083,101 120,3,Faculty 13
+2267,HOME,A,Homestead,11049,20,35,Business,GEB,1101,Business Practices,ON (Online),,0.45833,0.510413,101 120,3,Faculty 14
+2267,HOME,A,Homestead,11050,24,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.58333,0.635413,101 120,3,Faculty 15
+2267,HOME,A,HOMESTEAD,11051,15,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.70833,0.760413,101 120,3,Faculty 16
+2267,HOME,A,BAPTIST,11052,13,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.375,0.427083,101 120,3,Faculty 17
+2267,HOME,A,SDADE SH,11053,15,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.45833,0.510413,101 120,3,Faculty 18
+2267,HOME,A,Homestead,11054,23,35,Business,GEB,1101,Business Practices,ON (Online),,0.58333,0.635413,101 120,3,Faculty 1
+2267,HOME,A,Homestead,11055,16,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.70833,0.760413,101 120,3,Faculty 2
+2267,HOME,A,Homestead,11056,10,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.375,0.427083,101 120,3,Faculty 3
+2267,HOME,A,HOMESTEAD,11057,34,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.45833,0.510413,101 120,3,Faculty 4
+2267,HOME,A,BAPTIST,11058,35,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.58333,0.635413,101 120,3,Faculty 5
+2267,HOME,A,SDADE SH,11059,25,35,Business,GEB,1101,Business Practices,ON (Online),,0.70833,0.760413,101 120,3,Faculty 6
+2267,HOME,A,Homestead,11060,34,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.375,0.427083,101 120,3,Faculty 7
+2267,HOME,A,Homestead,11061,17,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.45833,0.510413,101 120,3,Faculty 8
+2267,HOME,A,Homestead,11062,8,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.58333,0.635413,101 120,3,Faculty 9
+2267,HOME,A,HOMESTEAD,11063,17,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.70833,0.760413,101 120,3,Faculty 10
+2267,HOME,A,BAPTIST,11064,26,35,Business,GEB,1101,Business Practices,ON (Online),,0.375,0.427083,101 120,3,Faculty 11
+2267,HOME,A,SDADE SH,11065,30,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.45833,0.510413,101 120,3,Faculty 12
+2267,HOME,A,Homestead,11066,17,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.58333,0.635413,101 120,3,Faculty 13
+2267,HOME,A,Homestead,11067,35,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.70833,0.760413,101 120,3,Faculty 14
+2267,HOME,A,Homestead,11068,32,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.375,0.427083,101 120,3,Faculty 15
+2267,HOME,A,HOMESTEAD,11069,24,35,Business,GEB,1101,Business Practices,ON (Online),,0.45833,0.510413,101 120,3,Faculty 16
+2267,HOME,A,BAPTIST,11070,14,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.58333,0.635413,101 120,3,Faculty 17
+2267,HOME,A,SDADE SH,11071,21,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.70833,0.760413,101 120,3,Faculty 18
+2267,HOME,A,Homestead,11072,21,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.375,0.427083,101 120,3,Faculty 1
+2267,HOME,A,Homestead,11073,27,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.45833,0.510413,101 120,3,Faculty 2
+2267,HOME,A,Homestead,11074,17,35,Business,GEB,1101,Business Practices,ON (Online),,0.58333,0.635413,101 120,3,Faculty 3
+2267,HOME,A,HOMESTEAD,11075,21,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.70833,0.760413,101 120,3,Faculty 4
+2267,HOME,A,BAPTIST,11076,22,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.375,0.427083,101 120,3,Faculty 5
+2267,HOME,A,SDADE SH,11077,13,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.45833,0.510413,101 120,3,Faculty 6
+2267,HOME,A,Homestead,11078,15,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.58333,0.635413,101 120,3,Faculty 7
+2267,HOME,A,Homestead,11079,17,35,Business,GEB,1101,Business Practices,ON (Online),,0.70833,0.760413,101 120,3,Faculty 8
+2267,HOME,A,Homestead,11080,16,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.375,0.427083,101 120,3,Faculty 9
+2267,HOME,A,HOMESTEAD,11081,34,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.45833,0.510413,101 120,3,Faculty 10
+2267,HOME,A,BAPTIST,11082,33,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.58333,0.635413,101 120,3,Faculty 11
+2267,HOME,A,SDADE SH,11083,9,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.70833,0.760413,101 120,3,Faculty 12
+2267,HOME,A,Homestead,11084,10,35,Business,GEB,1101,Business Practices,ON (Online),,0.375,0.427083,101 120,3,Faculty 13
+2267,HOME,A,Homestead,11085,9,35,Mathematics & Sciences,MAC,1101,College Algebra,P (In Person),MW,0.45833,0.510413,101 120,3,Faculty 14
+2267,HOME,A,Homestead,11086,22,35,Communications,ENC,1101,Composition I,P (In Person),TR,0.58333,0.635413,101 120,3,Faculty 15
+2267,HOME,A,HOMESTEAD,11087,28,35,Nursing,NUR,1101,Nursing Foundations,BL (Blended),M,0.70833,0.760413,101 120,3,Faculty 16
+2267,HOME,A,BAPTIST,11088,16,35,Aviation,AVM,1101,Aviation Basics,P (In Person),F,0.375,0.427083,101 120,3,Faculty 17
+2267,HOME,A,SDADE SH,11089,24,35,Business,GEB,1101,Business Practices,ON (Online),,0.45833,0.510413,101 120,3,Faculty 18
+2267,HOME,A,Homestead,12000,20,999,Technology,CIS,1000,Automatic lab,P (In Person),MW,0.375,0.42,LAB,0,Lab faculty
+2267,HOME,A,Homestead,12001,20,999,Technology,CIS,1000,Automatic lab,P (In Person),MW,0.375,0.42,LAB,0,Lab faculty
+2267,HOME,A,Homestead,12002,20,999,Technology,CIS,1000,Automatic lab,P (In Person),MW,0.375,0.42,LAB,0,Lab faculty
+2267,HOME,X,Homestead,13000,0,30,Business,GEB,1101,Cancelled,P (In Person),MW,0.375,0.42,101 121,3,Faculty 1
+2267,HOME,X,Homestead,13001,0,30,Business,GEB,1101,Cancelled,P (In Person),MW,0.375,0.42,101 121,3,Faculty 1
+2267,HOME,X,Homestead,13002,0,30,Business,GEB,1101,Cancelled,P (In Person),MW,0.375,0.42,101 121,3,Faculty 1
